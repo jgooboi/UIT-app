@@ -1,0 +1,16 @@
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\bin\Debug\netstandard2.0\UITapp.deps.json
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\bin\Debug\netstandard2.0\UITapp.dll
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\bin\Debug\netstandard2.0\ref\UITapp.dll
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\bin\Debug\netstandard2.0\UITapp.pdb
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\UITapp.csproj.AssemblyReference.cache
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\UITapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\UITapp.AssemblyInfoInputs.cache
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\UITapp.AssemblyInfo.cs
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\UITapp.csproj.CoreCompileInputs.cache
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\UITapp.dll
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\ref\UITapp.dll
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\UITapp.pdb
+F:\Dev\Mobile\FINALTERM\UITapp\UITapp\UITapp\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
